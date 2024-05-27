@@ -40,7 +40,7 @@ const Sidenav = () => {
                                 <span className='pl-4 '>Contact</span>
                             </a>
 
-                            <a onClick={toggleNav} href="Imad AIT ALDJET.pdf" className='w-[75%] flex justify-center items-center rounded-full shadow-md
+                            <a onClick={toggleNav} href="Imad AITALDJET.pdf" className='w-[75%] flex justify-center items-center rounded-full shadow-md
                             bg-gray-100 shadow-gray-600 m-2 p-4 cursor-pointer hover:bg-pink-700 hover:text-white hover:scale-110 ease-in duration-200'>
                                 
                                 <BsPerson size={20} />
@@ -70,7 +70,7 @@ const Sidenav = () => {
                         <AiOutlineMail size={20} />
                     </a>
 
-                    <a href="Imad AIT ALDJET.pdf" className='rounded-full shadow-md bg-gray-100
+                    <a href="Imad AITALDJET.pdf" className='rounded-full shadow-md bg-gray-100
                      shadow-gray-600 m-2 p-4 cursor-pointer hover:bg-pink-700 hover:text-white hover:scale-110 ease-in duration-200'>
                         <BsPerson size={20} />
                     </a>
